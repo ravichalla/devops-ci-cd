@@ -1,4 +1,4 @@
-SOURCE_REPOSITORY_URL=<GIT_URL>
+SOURCE_REPOSITORY_URL=https://github.com/venkataravi/devops-ci-cd
 NAME=jenkins
 SOURCE_REPOSITORY_CONTEXT_DIR=jenkins-s2i
 IMAGE_STREAM_NAMESPACE=ravi-ci-cd
